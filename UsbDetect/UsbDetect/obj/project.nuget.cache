@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvdrTkPF96JvxQ06MNooVifKGuZSkynWSopoIk2vfdJI7oZhxH2P9U2BLhcucAN75MMPPvgcUb6hLDBeZa4GWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\source\\repos\\UsbDetect\\UsbDetect\\UsbDetect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
